@@ -76,10 +76,13 @@ section {
   font-size: 12px;
 }
 
-.bite       { background: #008000; }
-.telia      { background: #84c;    }
-.tele2      { background: #000;     }
+.digi       { background: #003cff; }
+.vf      { background: rgb(204, 68, 68);    }
+.oro      { background: #ff8800;     }
+.tkrm      { background: #ea00ff;     }
+.vfdigi      { background: #00fff2;     }
 .unallocated { background: #222;    color: #999; }
+.reserved{ background: #636363;    color: #999; }
 
 .frequency {
   position: absolute;
