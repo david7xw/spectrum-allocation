@@ -80,9 +80,9 @@ section {
 .vf      { background: rgb(204, 68, 68);    }
 .oro      { background: #ff8800;     }
 .tkrm      { background: #ea00ff;     }
-.vfdigi      { background: #00fff2;     }
-.unallocated { background: #222;    color: #999; }
-.reserved{ background: #636363;    color: #999; }
+.vfdigi      { background: #7700ff;     }
+.unallocated { background: #616161;    color: #999; }
+.reserved{ background: #222222;    color: #999; }
 
 .frequency {
   position: absolute;
